@@ -1,0 +1,158 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Daniel James
+ID:      210265440
+Email:   jame5440@mylaurier.ca
+Version: 2021-10-18
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Enter file: foods.txt
+Enter Origin number: 7
+
+Name:       Lasagna
+Origin:     Italian
+Vegetarian: False
+Calories:   135
+
+Name:       Fettuccine
+Origin:     Italian
+Vegetarian: False
+Calories:   266
+
+Name:       Ravioli
+Origin:     Italian
+Vegetarian: False
+Calories:   246
+
+Name:       Crepe
+Origin:     Italian
+Vegetarian: True
+Calories:   186
+
+Name:       Pepperoni Pizza
+Origin:     Italian
+Vegetarian: False
+Calories:   713
+
+Name:       Panzerotti
+Origin:     Italian
+Vegetarian: False
+Calories:   770
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Enter file: foods.txt
+
+The average calories is: 791.4418604651163
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Enter file: foods.txt
+Enter origin number: 7
+The average calories is: 386.0
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Enter file: foods.txt
+
+Food                               Origin       Vegetarian Calories
+----------------------------------- ------------ ---------- --------
+Lasagna                              Italian          False      135                      
+Butter Chicken                       Indian           False      490                      
+Moo Goo Guy Pan                      Chinese          False      272                      
+Vegetable Alicha                     Ethiopian        True       138                      
+Spanakopita                          Greek            True       260                      
+Chirashi Don                         Japanese         False      600                      
+Canuck Burger                        Canadian         False      7500                     
+Turducken                            American         False      12240                    
+Shark Fin Soup                       Chinese          False      46                       
+Chamuco                              Mexican          True       150                      
+Natto                                Japanese         True       212                      
+Canada Goose Chili                   Canadian         False      199                      
+Diet Free-Range Gluten-free Water    American         True       0                        
+Kung Pao Chicken                     Chinese          False      229                      
+General Tao Chicken                  Chinese          False      850                      
+Spicy Vegetable Moo Shu              Chinese          True       140                      
+BBQ Pork                             Chinese          False      920                      
+Orange Chicken                       Chinese          False      800                      
+Vegetables with Cashew Nuts          Chinese          True       143                      
+Lemon Chicken                        Chinese          False      226                      
+Beef with Green Pepper               Chinese          False      251                      
+Sweet and Sour Pork                  Chinese          False      231                      
+Szechuan Shrimp                      Chinese          False      516                      
+Poutine                              Canadian         False      710                      
+Teppanyaki                           Japanese         False      200                      
+Greek Salad                          Greek            True       185                      
+Fettuccine                           Italian          False      266                      
+Teriyaki                             Japanese         False      233                      
+Shortbread                           Scottish         True       502                      
+Pavlova                              New Zealand      True       272                      
+Hokey Pokey Ice Cream                New Zealand      True       106                      
+Fricot                               Canadian         False      360                      
+Chip Butty                           English          True       956                      
+Grilled Salmon                       Canadian         False      511                      
+Ravioli                              Italian          False      246                      
+Crepe                                Italian          True       186                      
+Fried Rice                           Chinese          False      425                      
+Pepperoni Pizza                      Italian          False      713                      
+Chicken Kabob                        Indian           False      167                      
+Panzerotti                           Italian          False      770                      
+Spring Rolls                         Chinese          True       200                      
+Chicken Chow Mein                    Chinese          False      178                      
+Chicken Wings                        American         False      298 
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Enter file: foods.txt
+
+Name:       Lasagna
+Origin:     Italian
+Vegetarian: False
+Calories:   135
+
+Name:       Fettuccine
+Origin:     Italian
+Vegetarian: False
+Calories:   266
+
+Name:       Ravioli
+Origin:     Italian
+Vegetarian: False
+Calories:   246
+
+Name:       Crepe
+Origin:     Italian
+Vegetarian: True
+Calories:   186
+
+Name:       Pepperoni Pizza
+Origin:     Italian
+Vegetarian: False
+Calories:   713
+
+Name:       Panzerotti
+Origin:     Italian
+Vegetarian: False
+Calories:   770
+
+
+-------------------------------------------------------
+t06
+-------------------------------------------------------
+
+-------------------------------------------------------
+t07
+-------------------------------------------------------
+
+-------------------------------------------------------
+t08
+-------------------------------------------------------
+
+-------------------------------------------------------
+t09
+-------------------------------------------------------
